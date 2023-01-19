@@ -1,5 +1,5 @@
 # 백화점 고객들의 인구 통계 예측 대회
-Predicting Demographics Contest of Department Store Customers 
+Predicting Demographics Contest of Department Store Customers   
 
 <br/>
 
